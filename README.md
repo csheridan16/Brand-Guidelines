@@ -1,4 +1,4 @@
 # Brand-Guidelines
 
--[Brand Guidelines](https://csheridan16.github.io/Brand-Guidelines/BrandGuidelinesversion1.pdf)
+-[Brand Guidelines](https://github.com/csheridan16/Brand-Guidelines/blob/gh-pages/Brand%20Guidelines%20version%201.pdf)
 
